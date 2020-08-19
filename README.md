@@ -2,7 +2,7 @@
 
 
  <a href="https://www.linkedin.com/in/edson-freire/"  target="_blank"  rel="nofollow">
- <img width="24rem" src="https://raw.githubusercontent.com/edsonmfreire/edsonmfreire/master/assets/linkedin.png">
+ <img width="24rem" src="https://github.com/edsonmfreire/edsonmfreire/blob/master/assets/linkedin.png?raw=true">
  </a> 
 
 
